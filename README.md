@@ -83,10 +83,6 @@
 </head>
 <body>
 
-  <div class="container">
-    <h1>Coach Rana Samy</h1>
-    <h2>Empowering women through soul-alignment & purpose ✨</h2>
-
     <div class="links">
       <!-- Facebook -->
       <a href="https://www.facebook.com/share/12JTPWNbUmW/" target="_blank" class="button">
