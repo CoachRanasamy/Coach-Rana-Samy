@@ -112,7 +112,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Group">
         Join Soulsketch Group
       </a>
-    </div>
 
     <footer>
       © 2025 Coach Rana Samy. All rights reserved.
