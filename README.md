@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -8,11 +9,8 @@
     body {
       margin: 0;
       font-family: 'Raleway', sans-serif;
-      background-color: #ffffff;
-      background-image: url(['https://i.ibb.co/z4n3mN2/blue-flowers-bg.png'](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Far_eg%2Fphone-wallpapers%2Ftemplates%2F&psig=AOvVaw2FMPkcywEGNYY6C35VA4N6&ust=1748645827523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjjrcDjyY0DFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Far_eg%2Fphone wallpapers%2Ftemplates%2F&psig=AOvVaw2FMPkcywEGNYY6C35VA4N6&ust=1748645827523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjjrcDjyY0DFQAAAAAdAAAAABAE)); /* صورة ورد لبني ناعم */
+      background: url('https://i.pinimg.com/originals/3b/1a/2e/3b1a2e3d8f3a4e6c9f8a7b2e5d6c4f1a.jpg') no-repeat center center fixed;
       background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
       color: #333;
       text-align: center;
       padding: 50px 20px;
@@ -21,7 +19,7 @@
     .container {
       max-width: 700px;
       margin: auto;
-      background: #ffffffd0;
+      background: rgba(255, 255, 255, 0.85);
       padding: 40px;
       border-radius: 20px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
@@ -67,8 +65,8 @@
     }
 
     .button img {
-      width: 34px;
-      height: 34px;
+      width: 40px;
+      height: 40px;
     }
 
     .button:hover {
@@ -85,6 +83,10 @@
   </style>
 </head>
 <body>
+
+  <div class="container">
+    <h1>Coach Rana Samy</h1>
+    <h2>Connect with us and follow our journey through the links below:</h2>
 
     <div class="links">
       <!-- Facebook -->
