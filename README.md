@@ -7,92 +7,100 @@
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #ffffff;
-      color: #3e3e3e;
+      background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+      color: #333;
       text-align: center;
-      padding: 40px 20px;
-      background-image: linear-gradient(to bottom, #fff, #fdf6e3);
+      padding: 50px 20px;
     }
 
     h1 {
-      color: #bfa046;
-      font-size: 36px;
+      font-size: 40px;
+      color: #8c4a32;
       margin-bottom: 10px;
     }
 
     h2 {
-      color: #8c7b3f;
       font-size: 24px;
+      color: #663300;
       margin-bottom: 30px;
+    }
+
+    p {
+      font-size: 20px;
+      margin-bottom: 40px;
+      color: #444;
     }
 
     .button {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 10px;
-      padding: 12px 24px;
-      margin: 10px auto;
+      gap: 12px;
+      padding: 15px 30px;
+      margin: 12px auto;
       text-decoration: none;
-      border-radius: 30px;
-      font-weight: 600;
-      font-size: 15px;
+      border-radius: 50px;
+      font-weight: bold;
+      font-size: 17px;
       transition: all 0.3s ease;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-      border: 2px solid transparent;
+      border: none;
+      color: #fff;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     }
 
     .button img {
-      width: 20px;
-      height: 20px;
+      width: 28px;
+      height: 28px;
     }
 
     .facebook {
       background-color: #3b5998;
-      color: white;
     }
 
     .instagram {
       background-color: #e1306c;
-      color: white;
     }
 
     .whatsapp {
       background-color: #25D366;
-      color: white;
     }
 
     .button:hover {
-      transform: scale(1.05);
-      opacity: 0.95;
+      transform: scale(1.07);
+      opacity: 0.9;
     }
   </style>
 </head>
 <body>
 
+  <h1>Coach Rana Samy</h1>
+  <h2>Empowerment & Self-Discovery Journey</h2>
+
   <p>Connect with us and follow our journey through the links below:</p>
 
   <!-- Facebook Account -->
-  <a href="[https://web.facebook.com/profile.php?id=61574468312535](https://www.facebook.com/share/12JTPWNbUmW/)" target="_blank" class="button facebook">
+  <a href="https://www.facebook.com/share/12JTPWNbUmW/" target="_blank" class="button facebook">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook">
-   My Facebook Account
+    My Facebook Account
   </a><br>
 
   <!-- Instagram -->
-  <a href="[https://www.instagram.com/basiraa45?igsh=Y3oxNW50Nmk2MzZ4](https://www.instagram.com/rana_kordia?igsh=MTBycGc0MjFmZm5nOQ==)" target="_blank" class="button instagram">
+  <a href="https://www.instagram.com/rana_kordia?igsh=MTBycGc0MjFmZm5nOQ==" target="_blank" class="button instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
-My Instagram Account
+    My Instagram Account
   </a><br>
 
-  <!-- WhatsApp -->
-  <div class="contact-section">
-    <a href="https://wa.me/201010291211" target="_blank" class="button whatsapp">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
-      Chat with me on WhatsApp
-    </a><br>
-    
-  <!-- WhatsApp Group -->
-  <a href="[https://chat.whatsapp.com/INVITE_LINK_HERE](https://chat.whatsapp.com/Cq42R5vxxAd4985lUSlg1p)" target="_blank" class="button whatsapp">
+  <!-- WhatsApp Chat -->
+  <a href="https://wa.me/201010291211" target="_blank" class="button whatsapp">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
-    Soulsketch Whatsapp Group
+    Chat with me on WhatsApp
+  </a><br>
+
+  <!-- WhatsApp Group -->
+  <a href="https://chat.whatsapp.com/Cq42R5vxxAd4985lUSlg1p" target="_blank" class="button whatsapp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Group">
+    Soulsketch WhatsApp Group
   </a>
+
+</body>
+</html>
