@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -83,10 +82,6 @@
   </style>
 </head>
 <body>
-
-  <div class="container">
-    <h1>Coach Rana Samy</h1>
-    <h2>Connect with us and follow our journey through the links below:</h2>
 
     <div class="links">
       <!-- Facebook -->
