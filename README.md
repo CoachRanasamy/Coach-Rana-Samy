@@ -70,7 +70,7 @@
 </head>
 <body>
 
-  <p>تابعونا وتواصلوا معنا من خلال الروابط التالية:</p>
+  <p>Connect with us and follow our journey through the links below:</p>
 
   <!-- Facebook Account -->
   <a href="[https://web.facebook.com/profile.php?id=61574468312535](https://www.facebook.com/share/12JTPWNbUmW/)" target="_blank" class="button facebook">
