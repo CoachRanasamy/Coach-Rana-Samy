@@ -9,7 +9,7 @@
       margin: 0;
       font-family: 'Raleway', sans-serif;
       background-color: #ffffff;
-      background-image: url(['https://i.ibb.co/z4n3mN2/blue-flowers-bg.png'](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Far_eg%2Fphone-wallpapers%2Ftemplates%2F&psig=AOvVaw2FMPkcywEGNYY6C35VA4N6&ust=1748645827523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjjrcDjyY0DFQAAAAAdAAAAABAE)); /* صورة ورد لبني ناعم */
+      background-image: url('https://i.ibb.co/z4n3mN2/blue-flowers-bg.png'](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Far_eg%2Fphone-wallpapers%2Ftemplates%2F&psig=AOvVaw2FMPkcywEGNYY6C35VA4N6&ust=1748645827523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjjrcDjyY0DFQAAAAAdAAAAABAE); /* صورة ورد لبني ناعم */
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
@@ -85,10 +85,6 @@
   </style>
 </head>
 <body>
-
-  <div class="container">
-    <h1>Coach Rana Samy</h1>
-    <h2>Life Coach & Self-Discovery Guide</h2>
 
     <div class="links">
       <!-- Facebook -->
