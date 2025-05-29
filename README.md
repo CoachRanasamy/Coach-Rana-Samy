@@ -96,7 +96,7 @@
       </a>
 
       <!-- WhatsApp Direct -->
-      <a href="https://wa.me/201010291211" target="_blank" class="button">
+      <a href="https://wa.me/201222258590" target="_blank" class="button">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
         Chat with Me
       </a>
