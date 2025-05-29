@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -8,7 +9,11 @@
     body {
       margin: 0;
       font-family: 'Raleway', sans-serif;
-      background: linear-gradient(135deg, #ffe5ec, #ffc3a0);
+      background-color: #ffffff;
+      background-image: url('https://i.ibb.co/z4n3mN2/blue-flowers-bg.png'); /* صورة ورد لبني ناعم */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
       color: #333;
       text-align: center;
       padding: 50px 20px;
@@ -17,7 +22,7 @@
     .container {
       max-width: 700px;
       margin: auto;
-      background: #ffffffcc;
+      background: #ffffffd0;
       padding: 40px;
       border-radius: 20px;
       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
@@ -63,8 +68,8 @@
     }
 
     .button img {
-      width: 30px;
-      height: 30px;
+      width: 34px;
+      height: 34px;
     }
 
     .button:hover {
@@ -81,6 +86,10 @@
   </style>
 </head>
 <body>
+
+  <div class="container">
+    <h1>Coach Rana Samy</h1>
+    <h2>Life Coach & Self-Discovery Guide</h2>
 
     <div class="links">
       <!-- Facebook -->
@@ -108,9 +117,10 @@
       </a>
     </div>
 
-  <footer>
-    © 2025 Coach Rana Samy. All rights reserved.
-  </footer>
+    <footer>
+      © 2025 Coach Rana Samy. All rights reserved.
+    </footer>
+  </div>
 
 </body>
 </html>
