@@ -107,7 +107,6 @@
         Join Soulsketch Group
       </a>
     </div>
-  </div>
 
   <footer>
     © 2025 Coach Rana Samy. All rights reserved.
